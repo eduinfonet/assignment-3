@@ -60,3 +60,11 @@
  .image-resize{
     width: 260px;
  }
+ .comma{
+   display: flex;
+   justify-content: space-evenly;
+ }
+ .star{
+   display: flex;
+   justify-content: space-evenly;
+ }
